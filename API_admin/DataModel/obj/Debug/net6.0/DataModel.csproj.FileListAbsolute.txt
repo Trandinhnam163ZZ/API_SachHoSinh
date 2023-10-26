@@ -1,0 +1,11 @@
+C:\BTL_API\AdMin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\BTL_API\AdMin\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\BTL_API\AdMin\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\BTL_API\AdMin\DataModel\obj\Debug\net6.0\ref\DataModel.dll
