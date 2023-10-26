@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AdMin_APISachHocSinh.props" />
+</Project>
