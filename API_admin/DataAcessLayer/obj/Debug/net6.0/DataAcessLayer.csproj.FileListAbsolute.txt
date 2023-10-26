@@ -1,0 +1,17 @@
+C:\BTL_API\AdMin\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.deps.json
+C:\BTL_API\AdMin\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.runtimeconfig.json
+C:\BTL_API\AdMin\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.dll
+C:\BTL_API\AdMin\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+C:\BTL_API\AdMin\DataAcessLayer\bin\Debug\net6.0\DataModel.dll
+C:\BTL_API\AdMin\DataAcessLayer\bin\Debug\net6.0\DataModel.pdb
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfo.cs
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.CopyComplete
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.dll
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\refint\DataAcessLayer.dll
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.pdb
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.genruntimeconfig.cache
+C:\BTL_API\AdMin\DataAcessLayer\obj\Debug\net6.0\ref\DataAcessLayer.dll
