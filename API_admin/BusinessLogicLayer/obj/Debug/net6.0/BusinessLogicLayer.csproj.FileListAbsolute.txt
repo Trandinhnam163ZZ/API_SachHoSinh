@@ -1,0 +1,17 @@
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\DataAcessLayer.dll
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\DataModel.dll
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+C:\BTL_API\AdMin\BusinessLogicLayer\bin\Debug\net6.0\DataModel.pdb
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+C:\BTL_API\AdMin\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
